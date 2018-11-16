@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1537595736 source:e:\ai sa\sa.cpp
+	"SA.h"
+
+1537603947 source:e:\ai sa\main.cpp
+	<iostream>
+	"SA.h"
+
+1536984933 
+
+1536984933 e:\ai sa\sa.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<math.h>
+	<cmath>
+
+1537595736 source:/home/alfi/Panji/AI SA/SA.cpp
+	"SA.h"
+
+1537656235 /home/alfi/Panji/AI SA/SA.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<cmath>
+
+1537609124 source:/home/alfi/Panji/AI SA/main.cpp
+	<iostream>
+	"SA.h"
+
+1537595736 source:/home/alfi/Panji/AISA/SA.cpp
+	"SA.h"
+
+1537657468 /home/alfi/Panji/AISA/SA.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<cmath>
+
+1537657789 source:/home/alfi/Panji/AISA/main.cpp
+	<iostream>
+	"SA.h"
+	"SA.cpp"
+
+1537595736 /home/alfi/Panji/AISA/SA.cpp
+	"SA.h"
+

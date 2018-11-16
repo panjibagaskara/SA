@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1537595736 source:d:\kuliah\ai\tugas\tugas 1\tugas 1 ai\aisa windows\sa.cpp
+	"SA.h"
+
+1537664280 d:\kuliah\ai\tugas\tugas 1\tugas 1 ai\aisa windows\sa.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<math.h>
+	<cmath>
+
